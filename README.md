@@ -1,34 +1,28 @@
 # Latte Logic: Coffee Trends Analysis with SQL
 
-This project was completed as part of my database coursework, where I used SQL to analyse coffee-related datasets from different sources. The goal was to answer business-style questions by querying sales, customer behaviour, caffeine habits, and consumer preference data.
+This project demonstrates my ability to use SQL to analyse business-style datasets and solve structured analytical problems across multiple related tables. Using coffee sales and consumer datasets, I built queries to examine customer segments, product category performance, spending behaviour, beverage-related outcomes, and monthly outlet combinations.
 
-Rather than just writing basic queries, I also had to deal with practical data issues such as inconsistent formats, conversion of values, and joining tables with mismatched identifiers. This made the project a useful exercise in applying SQL to messier, more realistic datasets.
+The project also involved handling realistic data issues such as inconsistent key formats, date parsing, value categorisation, and ranking logic. To do this, I used Common Table Expressions, window functions, aggregate queries, string manipulation, and multi-table joins to transform raw relational data into clear analytical outputs.
 
-## What I worked on
+## Highlights
 
-In this project, I wrote SQL queries to:
-
-- analyse product category distributions and customer segments
-- compare loyalty membership and repeat customer patterns
-- calculate sales totals across different product and discovery source combinations
-- evaluate average focus level and sleep quality for coffee consumers
-- split spending patterns into before-12 and after-12 time periods
-- group pH values into ranges and compare sensory attributes
-- join multiple datasets to identify top-performing outlet combinations by month
+- Analysed customer and product patterns using grouped and windowed SQL queries
+- Compared alternative aggregation methods and explained why raw summation was more accurate than row-level rounding
+- Derived business-ready categories such as time-of-day groups, pH bands, and spending periods
+- Cleaned and aligned mismatched identifiers across datasets for successful joins
+- Ranked the top 3 monthly store–shop combinations using sales totals
 
 ## Skills demonstrated
 
 - SQL querying
-- `GROUP BY` and aggregate functions
-- `CASE WHEN` logic
-- multi-table joins
+- data cleaning in SQL
+- CTEs
+- window functions
+- joins across multiple tables
+- date and string transformations
 - ranking and top-N analysis
-- data cleaning within SQL
-- handling inconsistent key formats
-- writing clear and structured query logic
+- analytical problem solving
 
-## Tools used
+## File
 
-- MySQL
-- relational database concepts
-- query-based data cleaning and transformation
+- `BC2402_Individual_Assignment.sql`
