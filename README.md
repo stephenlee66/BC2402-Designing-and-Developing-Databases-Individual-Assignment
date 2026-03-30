@@ -25,4 +25,4 @@ The project also involved handling realistic data issues such as inconsistent ke
 
 ## File
 
-- `BC2402_Individual_Assignment.sql`
+- `Individual Assignment_Stephen.sql`
