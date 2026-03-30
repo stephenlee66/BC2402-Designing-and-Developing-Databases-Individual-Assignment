@@ -1,5 +1,3 @@
-# BC2402-Designing-and-Developing-Databases-Individual-Assignment
-
 # Latte Logic: Coffee Trends Analysis with SQL
 
 This project was completed as part of my database coursework, where I used SQL to analyse coffee-related datasets from different sources. The goal was to answer business-style questions by querying sales, customer behaviour, caffeine habits, and consumer preference data.
