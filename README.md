@@ -1,28 +1,14 @@
-# Latte Logic: Coffee Trends Analysis with SQL
+# BC2402 Coffee Trends
 
-This project demonstrates my ability to use SQL to analyse business-style datasets and solve structured analytical problems across multiple related tables. Using coffee sales and consumer datasets, I built queries to examine customer segments, product category performance, spending behaviour, beverage-related outcomes, and monthly outlet combinations.
+Individual assignment for BC2402 Designing and Developing Databases, focused on uncovering coffee trends using SQL.
 
-The project also involved handling realistic data issues such as inconsistent key formats, date parsing, value categorisation, and ranking logic. To do this, I used Common Table Expressions, window functions, aggregate queries, string manipulation, and multi-table joins to transform raw relational data into clear analytical outputs.
+## Overview
+This project answers a series of business and analytical questions across multiple coffee-related datasets. It applies SQL querying, aggregation, conditional logic, and joins while handling data quality issues within the queries.
 
-## Highlights
+## Data Source
+Datasets provided as part of the assignment.
 
-- Analysed customer and product patterns using grouped and windowed SQL queries
-- Compared alternative aggregation methods and explained why raw summation was more accurate than row-level rounding
-- Derived business-ready categories such as time-of-day groups, pH bands, and spending periods
-- Cleaned and aligned mismatched identifiers across datasets for successful joins
-- Ranked the top 3 monthly store–shop combinations using sales totals
-
-## Skills demonstrated
-
-- SQL querying
-- data cleaning in SQL
-- CTEs
-- window functions
-- joins across multiple tables
-- date and string transformations
-- ranking and top-N analysis
-- analytical problem solving
-
-## File
-
-- `Individual Assignment_Stephen.sql`
+## Files
+- [Assignment Brief](<BC2402 Individual Assignment- 2025_26.docx>)
+- [MySQL Database File](<BC2402_IA.sql>)
+- [SQL Script](<Individual Assignment_Stephen.sql>)
