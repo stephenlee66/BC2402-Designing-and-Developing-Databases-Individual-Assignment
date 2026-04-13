@@ -3,10 +3,10 @@
 Individual assignment for BC2402 Designing and Developing Databases, focused on uncovering coffee trends using SQL.
 
 ## Overview
-This project answers a series of business and analytical questions across multiple coffee-related datasets. It applies SQL querying, aggregation, conditional logic, and joins while handling data quality issues within the queries.
+Used SQL for querying, aggregation, conditional logic, and joins while handling data quality issues within the queries. Goes along with a series of business and analytical questions across multiple coffee-related datasets. 
 
 ## Data Source
-Datasets provided as part of the assignment.
+Database provided as part of the assignment.
 
 ## Files
 - [Assignment Brief](<BC2402 Individual Assignment- 2025_26.docx>)
